@@ -256,6 +256,8 @@ class MathsQuiz:
             self.user_score.configure(text=str(self.score))
 
 
+
+
 # Main routine
 if __name__ == "__main__":
     root = Tk()
