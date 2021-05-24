@@ -6,7 +6,7 @@
 from tkinter import *
 from tkinter import ttk
 
-
+# change
 # Parent class
 class MathQuiz:
     def __init__(self, parent):
